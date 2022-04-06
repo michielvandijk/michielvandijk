@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 I am a senior researcher in the international policy department at Wageningen Economic Research, part of Wageningen University and Research. I am also a guest research scholar (out of office) at the International Institute for Applied Systems Analysis (IIASA).
 
 I try to combine my economic and quantitative background with experience from working and living various developing countries to analyze research questions related to economic growth, food security and climate change. As tackling these large and complex issues requires a multi-disciplinary and integrated approach, I use a variety of tools, including global simulation models, econometric analysis and GIS and like to collaborate with agronomists, hydrologists and other scientists from different fields.
-
-Current research projects include a systematic review of global food security projections and improving the creation of crop distribution maps (in collaboration with colleagues from the International Food Policy Research Institute). 
